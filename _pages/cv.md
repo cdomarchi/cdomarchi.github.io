@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* BSc in Civil Engineering at Universidad de Concepción, Chile, specialisation in Transport, **2007**.
-* MSc in Transportation Engineering and Logistics at Pontificia Universidad Católica de Chile, **2017**.
 * PhD in Behaviour Informatics, Newcastle University, **2024**.
+* MSc in Transportation Engineering and Logistics at Pontificia Universidad Católica de Chile, **2017**.
+* BSc in Civil Engineering at Universidad de Concepción, Chile, specialisation in Transport, **2007**.
 
 ## Work experience
 * Research Fellow, Department of Social Statistics and Demography, University of Southampton, **2024–current**.
@@ -31,4 +31,4 @@ redirect_from:
 * **Universidad de Concepción Scholarship**, as one of the 10 highest PAA (admission test) scores in the 2001 admission process, **2001**.
 
 ## CV
-* A copy of my CV (last updated 15 February 2024) can be downloaded [here](/files/CV_CDG.pdf). 
+* A copy of my CV (last updated 6 May 2024) can be downloaded [here](/files/CV_CDG.pdf). 
