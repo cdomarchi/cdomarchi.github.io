@@ -33,6 +33,11 @@ redirect_from:
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+<<<<<<< HEAD
+
+## Markdown guide
+
+=======
  * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
 
 ## MathJax 
@@ -56,6 +61,7 @@ The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed 
 
 Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
 
+>>>>>>> d570f3f70fb0fdbd8dc74b6b9adc98b30679434a
 ### Header three
 
 #### Header four
@@ -85,8 +91,12 @@ Single line blockquote:
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
+<<<<<<< HEAD
+| cell4   | cell5   | cell6   |
+=======
 | cell4   | ce
 ll5   | cell6   |
+>>>>>>> d570f3f70fb0fdbd8dc74b6b9adc98b30679434a
 |-----------------------------|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
@@ -143,6 +153,10 @@ Make any link standout more when applying the `.btn` class.
 
 ## Notices
 
+<<<<<<< HEAD
+**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+{: .notice}
+=======
 Basic notices or call-outs are supported using the following syntax:
 
 ```markdown
@@ -168,6 +182,7 @@ This is the regular text.[^1] This is more regular text.[^note]
 
 [^1]: Such as this footnote.
 [^note]: When using text for footnotes markers, no spaces are permitted in the name.
+>>>>>>> d570f3f70fb0fdbd8dc74b6b9adc98b30679434a
 
 ## HTML Tags
 
@@ -195,6 +210,8 @@ The abbreviation CSS stands for "Cascading Style Sheets".
 
 You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
 
+<<<<<<< HEAD
+=======
 You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:
 
 ```python
@@ -207,6 +224,7 @@ or R:
 print("Hello World!", quote = FALSE)
 ```
 
+>>>>>>> d570f3f70fb0fdbd8dc74b6b9adc98b30679434a
 ### Strike Tag
 
 This tag will let you <strike>strikeout text</strike>.
@@ -256,9 +274,12 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+<<<<<<< HEAD
+=======
 
 ***
 **Footnotes**
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
 
+>>>>>>> d570f3f70fb0fdbd8dc74b6b9adc98b30679434a

@@ -9,56 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* BSc in Civil Engineering at Universidad de Concepción, Chile, specialisation in Transport, **2007**.
+* MSc in Transportation Engineering and Logistics at Pontificia Universidad Católica de Chile, **2017**.
+* PhD in Behaviour Informatics, Newcastle University, **2024**.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Work experience
+* Research Fellow, Department of Social Statistics and Demography, University of Southampton, **2024–current**.
+* Assistant to the Editor-in-Chief, *Transportation Research Part A: Policy and Practice*, **2019–current**.
+* Technical advisor for several clients, **2018–2023**.
+* Transport modeller and engineer, **2007–2018**.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Non-degree courses
+* Diploma in Statistics with Specialisation in Statistic Methods, Pontificia Universidad Católica de Chile, **2011**.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Scholarships and awards
+* **Newcastle University Overseas Research Scholarship (NUORS)**, awarded by Newcastle University (UK), funding international tuition fees for the Behaviour Informatics PhD programme at Newcastle University, **2019**.
+* **Leverhulme Postgraduate Research Studentship**, awarded by The Leverhulme Trust, funding home fees for the Behaviour Informatics PhD programme at Newcastle University, UK, **2019**.
+* **DICTUC Scholarship**, for professionals working in DICTUC S. A., providing financial suport for post-graduate studies, **2013**.
+* **Faculty of Engineering Award**, for academic achievement (2nd place in the 2007 promotion of Civil Engineers), Universidad de Concepción, **2007**.
+* **Universidad de Concepción Scholarship**, as one of the 10 highest PAA (admission test) scores in the 2001 admission process, **2001**.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## CV
+* A copy of my CV (last updated 15 February 2024) can be downloaded [here](/files/CV_CDG.pdf). 
