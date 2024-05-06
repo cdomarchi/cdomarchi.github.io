@@ -7,20 +7,19 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## Education
 * PhD in Behaviour Informatics, Newcastle University, **2024**.
 * MSc in Transportation Engineering and Logistics at Pontificia Universidad Católica de Chile, **2017**.
 * BSc in Civil Engineering at Universidad de Concepción, Chile, specialisation in Transport, **2007**.
 
 ## Work experience
-* Research Fellow, Department of Social Statistics and Demography, University of Southampton, **2024–current**.
+* Research Fellow, Department of Social Statistics and Demography, University of Southampton (UK), **2024–current**.
 * Assistant to the Editor-in-Chief, *Transportation Research Part A: Policy and Practice*, **2019–current**.
-* Technical advisor for several clients, **2018–2023**.
-* Transport modeller and engineer, **2007–2018**.
+* Technical adviser for several clients, Self-employed, **2018–2023**.
+* Transport modeller and engineer, DICTUC S. A. (Chile), **2007–2018**.
 
 ## Non-degree courses
+* Accredited Researcher, Office for National Statistics (UK), **2023**
 * Diploma in Statistics with Specialisation in Statistic Methods, Pontificia Universidad Católica de Chile, **2011**.
 
 ## Scholarships and awards
