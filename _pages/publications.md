@@ -9,7 +9,7 @@ This is a list of my publications in academic journals and books. These can also
 
 ## Academic journals
 
-1. **Domarchi, C.** & Cherchi, E. (2024) Role of car segment and fuel type in the choice of alternative fuel vehicles: A cross-nested logit model for the English market _Applied Energy_ **357**, 122451 ([Link](https://doi.org/10.1016/j.apenergy.2023.122451)).
+1. **Domarchi, C.** & Cherchi, E. (2024) Role of car segment and fuel type in the choice of alternative fuel vehicles: A cross-nested logit model for the English market. _Applied Energy_ **357**, 122451 ([Link](https://doi.org/10.1016/j.apenergy.2023.122451)).
 2. **Domarchi, C.** & Cherchi, E. (2023) Electric vehicle forecasts: a review of models and methods including diffusion and substitution effects. _Transport Reviews_ **43(6)**, 1118–1143 ([Link](https://doi.org/10.1080/01441647.2023.2195687)).
 3. **Domarchi, C.**, Coeymans, J. E. & Ortúzar, J. de D. (2019) Shared taxis: Modelling the choice of a paratransit mode in Santiago de Chile. _Transportation_ **46(6)**, 2243–2268 ([Link](https://doi.org/10.1007/s11116-018-9926-z)).
 4. **Domarchi, C.**, Tudela, A. & González, A. (2008) Effect of attitudes, habit and affective appraisal on mode choice: an application to University workers. _Transportation_ **35(5)**, 585–599 ([Link](https://doi.org/10.1007/s11116-008-9168-6)).
