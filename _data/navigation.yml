@@ -9,7 +9,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  _ title: "Research"
+  - title: "Research"
     url: /research/
     
   - title: "Consultancy"
