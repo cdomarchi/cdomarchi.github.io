@@ -17,9 +17,9 @@ I also work at the [Training and Capacity Building Stream](https://surveyfutures
 
 ## My previous work
 
-Besides the work derived from my academic studies, which has generated several [publications](/pages/publications.md), I have taken part on other applied research projects, including:
+Besides the work derived from my academic studies, which has generated several [publications](/pages/publications.md), I have taken part in various applied research projects, including:
 
-* Demand models for electric vehicle choice in Santiago and Bogota ([Inter-American Development Bank](https://www.iadb.org/es) (**2022–2023**).
+* Discrete choice models for electric vehicle choice in Santiago and Bogota ([Inter-American Development Bank](https://www.iadb.org/es) (**2022–2023**).
 * Car ownership and use models of private car choice in three Latin American cities: Santiago, Bogota, and Buenos Aires, working for the [Inter-American Development Bank](https://www.iadb.org/es) (**2020–2022**).
 * Sample and fieldwork design for a new methodology to measure and estimate fare evasion rates in the public transport system in Santiago, working for [Chile’s Metropolitan Public Transport Directory, DTPM](https://www.dtpm.cl/) (**2018–2019**).
 * Discrete choice models estimation and demand forecasting for public transport services in Santiago, in the context of research project “A behavioural planning tool for modelling public transport systems”, FONDEF Project N° D10E1049, directed by [Professor Juan de Dios Ortúzar](https://www.ing.uc.cl/academicos-e-investigadores/juan-de-dios-ortuzar-salas/) at the [Pontificia Universidad Catolica de Chile](http://www.puc.cl) (**2017-2018**).
