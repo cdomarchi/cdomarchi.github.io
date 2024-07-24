@@ -17,7 +17,7 @@ I also work at the [Training and Capacity Building Stream](https://surveyfutures
 
 ## My previous work
 
-Besides the work derived from my academic studies, which has generated several [publications](/pages/publications.html) I have taken part on other applied research projects, including:
+Besides the work derived from my academic studies, which has generated several [publications](/pages/publications.md), I have taken part on other applied research projects, including:
 
 * Demand models for electric vehicle choice in Santiago and Bogota ([Inter-American Development Bank](https://www.iadb.org/es) (**2022–2023**).
 * Car ownership and use models of private car choice in three Latin American cities: Santiago, Bogota, and Buenos Aires, working for the [Inter-American Development Bank](https://www.iadb.org/es) (**2020–2022**).
