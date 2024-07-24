@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+## CV
+* A copy of my CV (last updated 6 May 2024) can be downloaded [here](/files/CV_CDG.pdf). 
+
 ## Education
 * PhD in Behaviour Informatics, [Newcastle University](http://ncl.ac.uk), **2024**.
 * MSc in Transportation Engineering and Logistics at [Pontificia Universidad Católica de Chile](http://www.puc.cl), **2017**.
@@ -29,5 +32,3 @@ redirect_from:
 * **Faculty of Engineering Award**, for academic achievement (2nd place in the 2007 promotion of Civil Engineers), Universidad de Concepción, **2007**.
 * **Universidad de Concepción Scholarship**, as one of the 10 highest PAA (admission test) scores in the 2001 admission process, **2001**.
 
-## CV
-* A copy of my CV (last updated 6 May 2024) can be downloaded [here](/files/CV_CDG.pdf). 
