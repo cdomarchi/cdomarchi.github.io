@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## CV
-* A copy of my CV (last updated 6 May 2024) can be downloaded [here](/files/CV_CDG.pdf). 
+A copy of my CV (last updated 6 May 2024) can be downloaded [here](/files/CV_CDG.pdf). 
 
 ## Education
 * PhD in Behaviour Informatics, [Newcastle University](http://ncl.ac.uk), **2024**.

@@ -27,7 +27,7 @@ Finally, since **2018** I have been part of several consultancy and research pro
 
 The following is a short summary of the main projects I have worked on throughout the years:
 
-## Surveys and data collection
+### Surveys and data collection
 
 1. Data collection and choice model estimation to understand the potential demand for electric vehicles in Latin American cities ([Inter-American Development Bank](https://www.iadb.org/es), **2022–2023**).
 2. Sample and fieldwork design for a new methodology to measure and estimate fare evasion rates in the public transport system in Santiago ([Chile’s Metropolitan Public Transport Directory, DTPM](https://www.dtpm.cl/), **2018–2019**).
@@ -41,7 +41,7 @@ The following is a short summary of the main projects I have worked on throughou
 * 20+ public transport demand measurement studies in mid-size Chilean cities (**2008–2015**).
 * 15+ studies concerning the design and administration of transport surveys in several contexts.
 
-## Transport modelling and forecasting
+### Transport modelling and forecasting
 
 1. Demand models for electric vehicle choice in Santiago and Bogota ([Inter-American Development Bank](https://www.iadb.org/es), **2022–2023**)
 2. Car ownership and use models of private car choice in three Latin American cities: Santiago, Bogota, and Buenos Aires ([Inter-American Development Bank](https://www.iadb.org/es), **2020–2022**).
