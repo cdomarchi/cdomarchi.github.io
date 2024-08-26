@@ -13,7 +13,7 @@ I previously worked at [DICTUC](http://www.dictuc.cl), a subsidiary company of [
 
 Finally, since **2018** I have been part of several consultancy and research projects as an independent part-time adviser. I've mainly contributed with modelling and analysis on topics including highway traffic forecasting and transport demand studies in general.
 
-The following is a short summary of the main projects I have worked on throughout the years:
+The following is a short summary of the projects I have worked on throughout the years:
 
 ### Surveys and data collection
 
