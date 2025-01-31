@@ -7,11 +7,7 @@ author_profile: true
 
 I have been working in consultancy projects for over **17 years** (!).
 
-Since **2019** I assist Professors [Elisabetta Cherchi](https://www.ncl.ac.uk/engineering/staff/profile/elisabettacherchi.html) and [Juan de Dios Ortúzar](https://www.ing.uc.cl/academicos-e-investigadores/juan-de-dios-ortuzar-salas/) in their roles as Co-Editors-in-Chief of [*Transportation Research Part A: Policy and Practice*](https://www.journals.elsevier.com/transportation-research-part-a-policy-and-practice), one of the leading journals in the transportation field.
-
-I previously worked at [DICTUC](http://www.dictuc.cl), a subsidiary company of [Pontificia Universidad Católica de Chile](http://www.puc.cl), from **2007** to **2018**. I took part in several projects, mostly involving transport data collection and analysis, as well as econometric and statistical modelling. 
-
-Finally, since **2018** I have been part of several consultancy and research projects as an independent part-time adviser. I've mainly contributed with modelling and analysis on topics including highway traffic forecasting and transport demand studies in general.
+Since **2018** I have been part of several consultancy and research projects as an independent part-time adviser. I've mainly contributed with modelling and analysis on topics including highway traffic forecasting and transport demand studies in general.
 
 The following is a short summary of the projects I have worked on throughout the years:
 
@@ -35,3 +31,9 @@ Highway traffic modelling and forecasting for several entities, including:
 * Autopista Vespucio Norte, Chile (**2017**).
 * Ruta del Canal, Chile (**2017**).
 * Abertis Argentina (**2016**).
+
+## Other roles
+
+Between **2019** and **2024** I assisted Professors [Elisabetta Cherchi](https://www.ncl.ac.uk/engineering/staff/profile/elisabettacherchi.html) and [Juan de Dios Ortúzar](https://www.ing.uc.cl/academicos-e-investigadores/juan-de-dios-ortuzar-salas/) in their roles as Co-Editors-in-Chief of [*Transportation Research Part A: Policy and Practice*](https://www.journals.elsevier.com/transportation-research-part-a-policy-and-practice), one of the leading journals in the transportation field.
+
+I previously worked at [DICTUC](http://www.dictuc.cl), a subsidiary company of [Pontificia Universidad Católica de Chile](http://www.puc.cl), from **2007** to **2018**. I took part in several projects, mostly involving transport data collection and analysis, as well as econometric and statistical modelling. 

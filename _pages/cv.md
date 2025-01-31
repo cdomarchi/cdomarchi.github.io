@@ -16,7 +16,7 @@ A copy of my CV (last updated November 2024) can be downloaded [here](/files/CV_
 
 ## Work experience
 * Research Fellow, Department of Social Statistics and Demography, [University of Southampton](http://southampton.ac.uk) (UK), **2024–current**.
-* Assistant to the Editor-in-Chief, [*Transportation Research Part A: Policy and Practice*](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice), **2019–current**. 
+* Assistant to the Editor-in-Chief, [*Transportation Research Part A: Policy and Practice*](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice), **2019–2024**. 
 * Technical adviser for several clients, Self-employed, **2018–2023**.
 * Transport modeller and engineer, [DICTUC S. A. (Chile)](http://www.dictuc.cl), **2007–2018**.
 
