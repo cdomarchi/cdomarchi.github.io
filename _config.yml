@@ -29,6 +29,7 @@ author:
   googlescholar    : "https://scholar.google.cl/citations?user=Fw626VgAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Cristian-Domarchi"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=24175570600"
   uri              :
   bitbucket        :
   codepen          :
@@ -49,7 +50,8 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "cdomarchi"
+  twitter          : 
+  bluesky          : "cdomarchi"
   vine             :
   weibo            :
   xing             :

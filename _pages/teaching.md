@@ -12,13 +12,13 @@ redirect_from:
 ## Teaching experience
 
 ### University of Southampton (UK)
-* Demonstrator/Teaching Assistant:
+* Guest lecturer:
   * Survey Design and Data Quality [STAT6136] (*Module leader: [Dr Olga Maslovskaya](https://www.southampton.ac.uk/people/5wzzpw/doctor-olga-maslovskaya)*), **2025**.
 
 ### Newcastle University (UK)
 * Demonstrator/Teaching Assistant
-  * Transport Research Methods [CEG8423] (*Module leader: [Professor Elisabetta Cherchi](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/elisabetta-cherchi.html)*), **2022-2023**.
-  * Transport Modelling and Forecasting [CEG8419] (*Module leader: [Professor Elisabetta Cherchi](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/elisabetta-cherchi.html)*), **2022-2023**.
+  * Transport Research Methods [CEG8423] (*Module leader: [Professor Elisabetta Cherchi](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/elisabetta-cherchi.html)*), **2022–2023**.
+  * Transport Modelling and Forecasting [CEG8419] (*Module leader: [Professor Elisabetta Cherchi](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/elisabetta-cherchi.html)*), **2022–2023**.
 
 ### Universidad de Concepción (Chile)
 * Demonstrator/Teaching Assistant

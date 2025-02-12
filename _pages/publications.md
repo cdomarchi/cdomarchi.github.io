@@ -24,4 +24,4 @@ This is a list of my publications in academic journals and books. These can also
 
 ## Other publications
 1. **Domarchi, C.**, Escobar, M. & [Tudela, A.](https://fi.udec.cl/academicos/alejandro-tudela-r/) (2009) Influencia de factores psicológicos y contextuales en la elección modal. [*Spanish*]. _Ingeniería de Transporte_ **14(2)**, 24–30. [(Link)](https://estudiosdetransporte.org/sochitran/article/view/111)
-2. **Domarchi, C.**, Sicre, I. & Hinojosa, O. (2008) [Estudio de reproducibilidad de mediciones manuales de flujo vehicular. Hacia la determinación de la exactitud y precisión de los estudios de base de tránsito]. [*Spanish*]. _Ingeniería de Transporte_ **13(5)**, 3–8. [(Link)](https://estudiosdetransporte.org/sochitran/article/view/98)
+2. **Domarchi, C.**, Sicre, I. & Hinojosa, O. (2008) Estudio de reproducibilidad de mediciones manuales de flujo vehicular. Hacia la determinación de la exactitud y precisión de los estudios de base de tránsito. [*Spanish*]. _Ingeniería de Transporte_ **13(5)**, 3–8. [(Link)](https://estudiosdetransporte.org/sochitran/article/view/98)
