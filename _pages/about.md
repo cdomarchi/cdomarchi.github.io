@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! I am **Cristian Domarchi** and this is a website for my academic and consulting profiles. 
 
-I was born in Chile and have been living in the UK since 2019. My research focuses on data collection, processing, analysis, and modelling, with a special emphasis on statistical and econometric models as well as survey methodologies. While most of my career has been devoted to transport behaviour modelling, I am also interested in quantitative social research and statistical modelling in general.
+I am originally from Chile and have lived in the UK since 2019. My research focuses on data collection, processing, analysis, and modelling, with a particular emphasis on statistical and econometric models as well as survey methodologies. Although much of my career has been dedicated to transport behaviour modelling, I am also interested in quantitative social research and statistical modelling in general.
 
 I began my education with a Civil Engineer degree (including a major in Transport) from [Universidad de Concepción](http://www.udec.cl) in my hometown  of Concepción, Chile. I then pursued an MSc in Transportation Engineering and Logistics at [Pontificia Universidad Católica de Chile](http://www.puc.cl) (PUC) in Santiago, Chile. I completed a PhD in Behaviour Informatics at [Newcastle University](http://ncl.ac.uk) in 2024.
 
