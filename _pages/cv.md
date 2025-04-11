@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A copy of my CV (last updated February 2025) can be downloaded [here](/files/CV_CDG.pdf). 
+A copy of my CV (last updated April 2025) can be downloaded [here](/files/CV_CDG.pdf). 
 
 ## Education
 * PhD in Behaviour Informatics, [Newcastle University](http://ncl.ac.uk), **2024**.
@@ -22,9 +22,11 @@ A copy of my CV (last updated February 2025) can be downloaded [here](/files/CV_
 
 ## Non-degree courses
 * [Accredited Researcher](https://researchaccreditationservice.ons.gov.uk/ons/ONS_homepage.ofml), [Office for National Statistics (UK)](https://www.ons.gov.uk/), **2023**
-* Diploma in Statistics with Specialisation in Statistic Methods, [Pontificia Universidad Católica de Chile](http://www.puc.cl), **2017**.
+* Introduction to Learning and Teaching in Higher Education workshop, Newcastle University (UK), **2019**.
+* Diploma in Statistics with Specialisation in Statistic Methods, [Pontificia Universidad Católica de Chile](http://www.puc.cl), **2011**.
 
 ## Scholarships and awards
+* **Best Finished Thesis Award** ("Mejor Tesis Terminada"), awarded by REDEUS-LEC (*Red de Desarrollo Urbano Sustentable en Latinoamerica y El Caribe*) to the best finished PhD Thesis by a Latin American student in topics related to sustainable development. Award accepted during the *V Symposium of Doctoral Students in Sustainable Development in Latin American and the Caribbean* (online event), **2025**.
 * **Newcastle University Overseas Research Scholarship (NUORS)**, awarded by Newcastle University (UK), funding international tuition fees for the Behaviour Informatics PhD programme at Newcastle University, **2019**.
 * **Leverhulme Postgraduate Research Studentship**, awarded by The Leverhulme Trust, funding home fees for the Behaviour Informatics PhD programme at Newcastle University, UK, **2019**.
 * **DICTUC Scholarship**, for professionals working in DICTUC S. A., providing financial suport for post-graduate studies, **2013**.

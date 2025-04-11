@@ -24,8 +24,6 @@ redirect_from:
 * Demonstrator/Teaching Assistant
   * Transport Engineering (*Module leader: [Professor Alejandro Tudela](https://fi.udec.cl/academicos/alejandro-tudela-r/)*), **2005–2006**.
 
-
-
 ## Thesis supervision
 
 ### MSc
