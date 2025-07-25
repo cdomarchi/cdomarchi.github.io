@@ -8,7 +8,7 @@ author_profile: true
 
 I have been working in consultancy projects for over **17 years** (!).
 
-Since **2018** I have been part of several consultancy and research projects as an independent part-time adviser. I've mainly contributed with modelling and analysis on topics including highway traffic forecasting and transport demand studies in general.
+Since **2018** I have been part of several consultancy and research projects as an independent part-time adviser. I've contributed with modelling and analysis on topics including social survey data analysis, highway traffic forecasting and transport demand studies in general.
 
 The following is a short summary of the projects I have worked on throughout the years:
 
