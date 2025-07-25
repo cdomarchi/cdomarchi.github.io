@@ -11,7 +11,7 @@ In **2024** I joined the [University of Southampton](http://southampton.ac.uk) a
 
 My work in Survey Futures is spread across two research strands:
 
-* [**Research Strand 4** – Surveys without field interviewers](https://surveyfutures.net/research-programme/research-strand-4/), led by [Dr Olga Maslovskaya](https://www.southampton.ac.uk/people/5wzzpw/doctor-olga-maslovskaya) at the [University of Southampton](http://southampton.ac.uk/).
+* [**Research Strand 4** – Surveys without field interviewers](https://surveyfutures.net/research-programme/research-strand-4/), led by [Professor Olga Maslovskaya](https://www.southampton.ac.uk/people/5wzzpw/doctor-olga-maslovskaya) at the [University of Southampton](http://southampton.ac.uk/).
 * [**Research Strand 5** – Complex measurements](https://surveyfutures.net/research-programme/research-strand-5/), led by [Professor Lisa Calderwood](https://profiles.ucl.ac.uk/48143-lisa-calderwood) at [University College London](http://ucl.ac.uk/).
 
 I also work at the [Training and Capacity Building Stream](https://surveyfutures.net/training-capacity-building/) led by [Professor Gabriele Durrant](https://www.southampton.ac.uk/people/5x25ff/professor-gabriele-durrant) at the [University of Southampton](http://southampton.ac.uk/), and [Ms. Debbie Collins](https://natcen.ac.uk/people/debbie-collins) at the [National Centre for Social Research (NatCen)](https://natcen.ac.uk/). As part of this role, I co-organised the [1st Early Career Researchers Conference](https://surveyfutures.net/events/2024/11/18/1st-survey-futures-early-career-researchers-conference/), held at the University of Essex, in Colchester, on 7th February 2025.

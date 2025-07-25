@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Consultancy"
@@ -13,7 +14,10 @@ The following is a short summary of the projects I have worked on throughout the
 
 ### Surveys and data collection
 
-Consulting work for several public agencies in Chile, including:
+In **2024** I was invited to collaborate with the [National Centre for Social Research](https://natcen.ac.uk/) along with Professor [Olga Maslovskaya](https://www.southampton.ac.uk/people/5wzzpw/doctor-olga-maslovskaya). We served as consultants on the expert review panel for conducting cognitive/user testing on the National Survey for Wales (NSW), which is transitioning from a telephone interviewing design to a push-to-web design. The **Expert review panel** activities took place on 22 of May and were funded by the Welsh Government.  
+
+During my time in Chile, I did consultancy work for several public agencies in Chile, including:
+
 * A detailed study of share taxis operation in the Coquimbo-La Serena conurbation (**2017–2019**).
 * Data collection for the environmental modelling of traffic flows for the [Secretary of Transport Planning SECTRA](https://www.sectra.gob.cl/) (**2008**, **2010** and **2016**).
 * Traffic flow measurement and demand modelling studies for Chile's [Ministry of Public Works](https://planeamiento.mop.gob.cl/) (MOP, **2010**, **2011**, and **2014**).
@@ -26,6 +30,7 @@ Consulting work for several public agencies in Chile, including:
 ### Transport modelling and forecasting
 
 Highway traffic modelling and forecasting for several entities, including:
+
 * Ministerio de Hacienda, Colombia (**2019–2020**).
 * Lamsac, Lima, Perú (**2019**).
 * Autopista Vespucio Norte, Chile (**2017**).
