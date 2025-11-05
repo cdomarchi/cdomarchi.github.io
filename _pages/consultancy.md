@@ -13,7 +13,7 @@ The following is a short summary of the projects I have worked on throughout the
 
 ### Surveys and data collection
 
-In **2024** I was invited to collaborate with the [National Centre for Social Research](https://natcen.ac.uk/) along with Professor [Olga Maslovskaya](https://www.southampton.ac.uk/people/5wzzpw/doctor-olga-maslovskaya). We served as consultants on the expert review panel for conducting cognitive/user testing on the National Survey for Wales (NSW), which is transitioning from a telephone interviewing design to a push-to-web design. The **Expert review panel** activities took place on 22 of May and were funded by the Welsh Government.  
+In **2024** I was invited to collaborate with the [National Centre for Social Research](https://natcen.ac.uk/) along with Professor [Olga Maslovskaya](https://www.southampton.ac.uk/people/5wzzpw/doctor-olga-maslovskaya). We served as consultants on the expert review panel for conducting cognitive/user testing on the National Survey for Wales (NSW).  
 
 During my time in Chile, I did consultancy work for several public agencies in Chile, including:
 

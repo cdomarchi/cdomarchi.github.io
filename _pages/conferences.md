@@ -21,8 +21,12 @@ This is a list of the academic conferences where my research works have been pre
 
 ### Local conferences
 
-1.  **Domarchi, C.**, [Maslovskaya, O.](https://www.southampton.ac.uk/people/5wzzpw/doctor-olga-maslovskaya), [Lynn, P.](https://www.iser.essex.ac.uk/people/plynn), Ndebele, N., [Fitzgerald, R.](https://www.city.ac.uk/about/people/academics/rory-fitzgerald) & Comanaru, R. (2025) [Social surveys without field interviewers in the UK: An evidence review](https://surveyfutures.net/wp-content/uploads/2024/11/review-of-surveys-without-field-interviewers-in-the-uk.pdf). [*1st Survey Futures Early Career Researchers Conference*](https://surveyfutures.net/events/2024/11/18/1st-survey-futures-early-career-researchers-conference/), Colchester, Essex, UK, February (***Speaker***).
+1. **Domarchi, C.**, [Maslovskaya, O.](https://www.southampton.ac.uk/people/5wzzpw/doctor-olga-maslovskaya), [Lynn, P.](https://www.iser.essex.ac.uk/people/plynn), Ndebele, N., [Fitzgerald, R.](https://www.city.ac.uk/about/people/academics/rory-fitzgerald) & Comanaru, R. (2025) [Social surveys without field interviewers in the UK: An evidence review](https://surveyfutures.net/wp-content/uploads/2024/11/review-of-surveys-without-field-interviewers-in-the-uk.pdf). [*1st Survey Futures Early Career Researchers Conference*](https://surveyfutures.net/events/2024/11/18/1st-survey-futures-early-career-researchers-conference/), Colchester, Essex, UK, February (***Speaker***).
 
+### Courses, workshops, and invited talks
+
+1. **Domarchi, C.**, [Maslovskaya, O.](https://www.southampton.ac.uk/people/5wzzpw/doctor-olga-maslovskaya), [Calderwood, L.](https://profiles.ucl.ac.uk/48143-lisa-calderwood), [Brown, M.](https://profiles.ucl.ac.uk/48146-matt-brown) (2025) [Retrospective measurement of life events in online self-completion surveys](/files/SF2025 - RS5 - Retrospective Data Collection Workshop.pdf). [*Survey Futures  Workshop*](https://surveyfutures.net/events/2025/09/30/survey-futures-workshop-retrospective-management-of-life-events-in-online-self-completion-surveys/), Online (***Speaker***).
+2. **Domarchi, C.**, [Maslovskaya, O.](https://www.southampton.ac.uk/people/5wzzpw/doctor-olga-maslovskaya), [Calderwood, L.](https://profiles.ucl.ac.uk/48143-lisa-calderwood), [Brown, M.](https://profiles.ucl.ac.uk/48146-matt-brown) (2025) Retrospective measurement of life events in online self-completion surveys. *The Future of Life Course Surveying Workshop*, Leibniz Institute for Educational Trajectories, Bamberg, Germany, October (***Speaker***).
 
 ## Transport behaviour
 
