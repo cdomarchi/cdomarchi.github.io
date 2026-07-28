@@ -9,7 +9,7 @@ author_profile: true
 
 In **2024** I joined the [University of Southampton](http://southampton.ac.uk) as a [Postdoctoral Research Fellow](https://www.southampton.ac.uk/people/65c5fn/mr-cristian-domarchi). 
 
-Since **2026** I'm working at the UK's [Generations and Gender Survey](https://www.ggp-i.org/data/generations-and-gender-survey/), a survey on life-course and family dynamics across various countries. My work focuses on survey methods research.
+Since **2026** I'm working in the UK's [Generations and Gender Survey](https://www.ggp-i.org/data/generations-and-gender-survey/), a survey on life-course and family dynamics across various countries. My work focuses on survey methodology and data analysis.
 
 From **2024** to **2026** I worked in [Survey Futures](https://surveyfutures.net/), a large-scale research project funded by the [UKRI-ESRC](https://www.ukri.org/councils/esrc/). The project involved nine research strands across several organisations (universities, data collection agencies, and consultancy firms, among others), and aims to ensure large-scale social surveys in the UK can innovate and adapt in a changing environment. The challenges of collecting high-quality data have been an ever-present concern throughout my career and I'm proud to have contributed to this highly exciting field of research.
 

@@ -26,7 +26,7 @@ A copy of my CV (last updated July 2026) can be downloaded [here](/files/CV_CDG.
 * Diploma in Statistics with Specialisation in Statistic Methods, [Pontificia Universidad Cat&oacute;lica de Chile](http://www.puc.cl/), **2011**.
 
 ## Scholarships and awards
-* **RSS Future Leader**, awarded by the [UK Royal Statistical Society](https://rss.org.uk/), as part of a cohort of career-young professionals from ethnic minority backgrounds working in statistics in the UK.
+* **RSS Future Leader**, awarded by the [UK Royal Statistical Society](https://rss.org.uk/), as part of a cohort of career-young professionals from ethnic minority backgrounds working in statistics in the UK, **2025**.
 * **Best Finished Thesis Award** ("Mejor Tesis Terminada"), awarded by [REDEUS-LEC (Red de Desarrollo Urbano Sustentable en Latinoamerica y El Caribe)](https://redeus.org/) to the best finished PhD Thesis by a Latin American student in topics related to sustainable development. Award accepted during the V Symposium of Doctoral Students in Sustainable Development in Latin American and the Caribbean (online event), **2025**.
 * **Newcastle University Overseas Research Scholarship (NUORS)**, awarded by [Newcastle University](http://ncl.ac.uk), funding international tuition fees for the Behaviour Informatics PhD programme at Newcastle University, **2019**.
 * **Leverhulme Postgraduate Research Studentship**, awarded by The Leverhulme Trust, funding home fees for the Behaviour Informatics PhD programme at Newcastle University, UK, **2019**.
